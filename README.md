@@ -2,7 +2,7 @@
 
 This is my submission for the project one for the compsc 472 class,
 
-# PDF REPORT: [CMPSC 472 Project 1 Report](./CMPSC_472_Project_1_Report.pdf)
+# PDF REPORT: [CMPSC 472 Project 1 Report]([./CMPSC_472_Project_1_Report.pdf](https://github.com/Daksh14/cmpsc-472-hw/blob/develop/CMPSC%20472%20Project%20one%20report.pdf))
 
 # LICENSE
 
